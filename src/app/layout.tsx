@@ -8,6 +8,7 @@ const secondary = Lobster({
   subsets: ['latin'],
   variable: '--secondary',
   weight: '400',
+  display: 'swap',
 })
 
 export const metadata: Metadata = {
